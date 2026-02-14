@@ -5,6 +5,7 @@ Este programa calculará cuánto debe pagar un usuario según su consumo de giga
 <img width="1292" height="914" alt="image" src="https://github.com/user-attachments/assets/c7ebea38-24bd-4143-9c54-2b90473cb459" />
 
 # CODIGO DEL PROGRAMA
+
 """
 PROYECTO: Sistema de Facturación de Telecomunicaciones
 DESCRIPCIÓN: Este programa calcula el total a pagar de un usuario
